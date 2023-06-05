@@ -1,4 +1,0 @@
-USER-AGENT,*chatgpt*,ChatGPT
-USER-AGENT,ChatGPT*,ChatGPT
-HOST-SUFFIX,chat.openai.com,ChatGPT
-HOST-SUFFIX,openai.com,ChatGPT
