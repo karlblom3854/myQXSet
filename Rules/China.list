@@ -24,8 +24,6 @@ user-agent,WeChat*,DIRECT
 # GeoIP CN段 直联
 GEOIP,CN,DIRECT
 
-# My School
-host-keyword,ucas,DIRECT
 
 # IP类工具 直联
 host-suffix,ipip.net,DIRECT
