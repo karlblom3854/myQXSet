@@ -1,0 +1,14 @@
+# My School
+HOST,cdn.usefathom.com,MyOut
+HOST-SUFFIX,anthropic.com,MyOut
+HOST-SUFFIX,claude.ai,MyOut
+HOST,ai.google.dev,MyOut
+HOST,alkalimakersuite-pa.clients6.google.com,MyOut
+HOST,generativelanguage.googleapis.com,MyOut
+HOST,makersuite.google.com,MyOut
+HOST-SUFFIX,bard.google.com,MyOut
+HOST-SUFFIX,deepmind.com,MyOut
+HOST-SUFFIX,deepmind.google,MyOut
+HOST-SUFFIX,gemini.google.com,MyOut
+HOST-SUFFIX,generativeai.google,MyOut
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,MyOut
